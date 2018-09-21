@@ -1,0 +1,38 @@
+_repo: Lira-Postuma-Obras-Completas-Vol-XXI_53867
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ochoa, Enrique
+    alias: Ochoa, Enrique C.
+    gutenberg_agent_id: '44413'
+    url: http://www.gutenberg.org/2009/agents/44413
+creator:
+  author:
+    agent_name: Darío, Rubén
+    aliases:
+    - Dario, Ruben
+    - García Sarmiento, Félix Rubén
+    - Sarmiento, Félix Rubén García
+    - Sarmiento, Felix Ruben Garcia
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53867'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Nicaraguan poetry'
+- GITenberg
+title: 'Lira Póstuma
+
+  Obras Completas Vol. XXI'
+url: http://www.gutenberg.org/ebooks/53867
